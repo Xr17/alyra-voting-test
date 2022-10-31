@@ -14,6 +14,7 @@ More tests are verifying that :
 
 - Ownership (Verify that only owner is able to do some actions)
 >√ Only owner should be able to endProposalsRegistering (712ms)
+
 >√ Only owner should be able to startVotingSession
 >√ Only owner should be able to endVotingSession
 >√ Only owner should be able to tallyVotes
